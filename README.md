@@ -1,4 +1,4 @@
-This is RSA-OAEP program   "Use Eclipse, PleaseÅh, "read the last part of this file..."
+This is RSA-OAEP program   "Use Eclipse, Please¬Åh, "read the last part of this file..."
 
 Java specifications:
 	Java data types are little bit different than other languages such as C, where Character is 16 bits, integer 32 bits
@@ -36,5 +36,5 @@ complementary materials:
 
 Thank you! =)
 
-if needed more information feel free to contact me: amh-ahmad@hotmail.com 
+if needed more information feel free to contact me: ahmadholpa@gmail.com
 
